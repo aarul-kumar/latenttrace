@@ -30,16 +30,21 @@ LatentTrace works in four primary stages:
 
 ### Ranked Alert Queue
 Displays the highest-risk events sorted sequentially by anomaly score.
+
 <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/c6a4e09f-1746-4dcd-86dd-7cfc25770b50" />
 
 ### Alert Deep Dive
 Exposes raw event metadata, predicted attack class, exact risk score, SHAP explanation charts, and actionable analyst feedback buttons.
+
 <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/64d3e864-5aec-4844-ba5d-427d387f1e05" />
+
 <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/f50676be-418b-4874-9456-4215ed855394" />
 
 ### Entity Behavioural History
 Graphs the risk score timeline for a selected entity, plotting predicted labels, session durations, resource context, and the current alert threshold line for comparison.
+
 <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/8941e004-6e63-484b-81c2-270be5ffee98" />
+
 <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/2aa443b0-fc41-4ec0-9a03-e88fdb01f17c" />
 
 ---
