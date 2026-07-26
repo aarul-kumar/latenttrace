@@ -1,0 +1,14 @@
+# Data Manipulation & Generation
+pandas==2.2.0
+numpy==1.26.3
+Faker==22.5.1
+# Machine Learning & Profiling
+scikit-learn==1.4.0
+xgboost==2.0.3
+joblib==1.3.2
+# Explainability
+shap==0.44.1
+# Dashboard UI & Visualization
+streamlit==1.31.0
+plotly==5.18.0
+matplotlib==3.8.2
